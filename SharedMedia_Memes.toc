@@ -1,0 +1,7 @@
+## Interface: 90105
+## Title: |cFFFFFF00<Meme WA Soundpack>|r |cff69ccf0by relleum|r
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+Soundpaths.lua 
