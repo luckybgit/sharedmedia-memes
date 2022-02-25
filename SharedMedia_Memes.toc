@@ -1,4 +1,4 @@
-## Interface: 90105
+## Interface: 90200
 ## Title: |cFFFFFF00<Meme WA Soundpack>|r |cff69ccf0by relleum|r
 
 libs\LibStub\LibStub.lua
